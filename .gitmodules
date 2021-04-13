@@ -1,0 +1,6 @@
+[submodule "Nodejs"]
+	path = Nodejs
+	url = https://github.com/dinesh-cyber/Nodejs.git
+[submodule "chat"]
+	path = chat
+	url = https://github.com/dinesh-cyber/chat.git
